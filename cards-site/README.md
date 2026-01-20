@@ -1,16 +1,26 @@
-# Cards Site
+# Site de Doação – Cards
 
-Projeto simples desenvolvido para praticar **HTML e CSS**.
+Projeto desenvolvido para praticar **HTML e CSS**, com foco na criação de um layout de site utilizando cards para apresentar opções de doação.
 
-O objetivo foi criar um layout com cards, trabalhando estrutura de página, organização visual e estilos básicos.
+O projeto simula uma página institucional de doação, utilizando imagens reais do instituto e da fundadora, com atenção à organização visual e boas práticas de desenvolvimento web.
 
-## Tecnologias utilizadas
-- HTML  
-- CSS  
+## 🎯 Objetivo do Projeto
+- Praticar a estruturação de páginas web
+- Trabalhar layout com cards
+- Organizar conteúdos visuais de forma clara
+- Aplicar boas práticas de HTML e CSS
 
-## O que foi praticado
-- Estruturação de páginas  
-- Estilização com CSS  
-- Organização de elementos na tela  
+## 🛠️ Tecnologias Utilizadas
+- HTML5  
+- CSS3  
+- Bootstrap 5
 
-Projeto de estudo desenvolvido durante meu aprendizado em desenvolvimento web.
+## 🧠 O que foi praticado
+- Estruturação de páginas com HTML semântico  
+- Estilização e organização visual com CSS  
+- Uso de cards para apresentação de conteúdo  
+- Organização de imagens em pastas  
+- Boas práticas de acessibilidade com uso do atributo `alt`  
+
+## 📌 Observações
+Projeto desenvolvido para fins educacionais durante meu aprendizado em desenvolvimento web.
