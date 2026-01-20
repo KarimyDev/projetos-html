@@ -5,10 +5,10 @@ Repositório com projetos simples desenvolvidos para prática de HTML e CSS, foc
 Os projetos foram criados durante meu aprendizado em desenvolvimento web.
 
 ## Organização do repositório
-- 📁 cards-site
+- 📁 cards-site:
 Projeto de layout com cards, trabalhando estrutura de página e estilos com CSS.
 
-- 📁 curriculo-web
+- 📁 curriculo-web:
 Projeto de currículo em formato web, focado em organização de conteúdo e semântica HTML.
 
 ## Conteúdo
